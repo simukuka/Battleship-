@@ -1,6 +1,5 @@
-# Battleship-
- Battleship Game: Classic Python implementation of the popular game. Sink all battleships on a 4x4 grid. Guess locations, receive hit/miss feedback, and track your progress. Have fun!
-Battleship Game
+# Battleship.py
+Battleship Game: Classic Python implementation of the popular game. Sink all battleships on a 4x4 grid. Guess locations, receive hit/miss feedback, and track your progress. Have fun!
 
 This repository contains a Python implementation of the classic game Battleship. The game is played on a 4x4 grid, where the player tries to guess the locations of hidden battleships. The objective is to sink all the battleships with as few guesses as possible.
 
